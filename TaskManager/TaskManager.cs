@@ -41,8 +41,25 @@ class TaskManager
                 Task task = tasks[i];
                 // Automatically, the status is incomplete
                 string status = task.IsComplete ? "[Complete]" : "[Incomplete]";
-                Console.WriteLine("{0}. {1}\t{2}\tdue date:{3}", i+1, status, task.Name, task.DueDate.ToShortDateString());
+                Console.WriteLine("{0}. {1}\t{2}\tdue date: {3}", i+1, status, task.Name, task.DueDate.ToShortDateString());
             }
+        }
+    }
+
+    // A methd to mark a task as complete.
+    public void MarkTaskAsComplete(int taskNumber)
+    {
+        // The user can only complete task that exist
+        if (taskNumber >= 1 && taskNumber <= tasks.Count)
+        {
+            // retrieve the task
+            Task task = tasks[taskNumber - 1];
+            task.IsComplete = true;
+            Console.WriteLine("Task marked as complete.");
+        }
+        else
+        {
+            Console.WriteLine("Invalid task number.");
         }
     }
 

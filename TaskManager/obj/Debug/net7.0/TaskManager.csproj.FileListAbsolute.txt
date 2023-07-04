@@ -1,0 +1,15 @@
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/bin/Debug/net7.0/TaskManager
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/bin/Debug/net7.0/TaskManager.deps.json
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/bin/Debug/net7.0/TaskManager.runtimeconfig.json
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/bin/Debug/net7.0/TaskManager.dll
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/bin/Debug/net7.0/TaskManager.pdb
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.csproj.AssemblyReference.cache
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.AssemblyInfoInputs.cache
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.AssemblyInfo.cs
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.dll
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/refint/TaskManager.dll
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.pdb
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/TaskManager.genruntimeconfig.cache
+/Users/kevinrojer/Documents/C# Projects/task-manager/TaskManager/obj/Debug/net7.0/ref/TaskManager.dll
